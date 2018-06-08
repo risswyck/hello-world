@@ -1,0 +1,3 @@
+Das ist der Inhalt einer Textdatei,
+die nicht besonders interessant ist.
+Oder doch?
